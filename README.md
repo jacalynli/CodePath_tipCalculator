@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](demo.gif)
+![](jacalyn_demo.gif)
 
 GIF created with [Recordit](https://recordit.co).
 
